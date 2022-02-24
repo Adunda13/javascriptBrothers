@@ -21,3 +21,13 @@ To clone a repo just type
 
 git clone url of the repo
 
+Homework for 2/23 is to create a branch on your repo.
+
+git pull to bring down the test branch onto your system
+
+Write up an issue
+
+Create a project and call it 'Create a test branch'
+
+Review Lesson Two
+
