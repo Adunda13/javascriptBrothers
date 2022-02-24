@@ -40,10 +40,10 @@ const travelBag = {
 const markup = (travelBag) => {
     return `
     <div>
-        <h3 style="color:red;">${travelBag.name}</h3>
+        <h3>${travelBag.name}</h3>
         <ul>
         <li>Volume:${travelBag.volume}</li>
-        <li style="color:red;">Color:${travelBag.color}</li>
+        <li>Color:${travelBag.color}</li>
         <li>Length:${travelBag.dimensions.length} inches</li>
         <li>Height:${travelBag.dimensions.height}</li>
         <li>Width:${travelBag.dimensions.width}</li>
