@@ -17,3 +17,7 @@ git commit -m "say whatever"
 
 git push
 
+To clone a repo just type
+
+git clone url of the repo
+
