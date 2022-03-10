@@ -5,7 +5,7 @@ const updateTravelBag = (update) => { // creating an arrow function
 };
 
 const travelBag = {
-    name: "Travel Duffle Bag",
+    name: "Travel Big Bag",
     volume: 52,
     color: "bourbon",
     dimensions: {
