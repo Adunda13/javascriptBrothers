@@ -31,3 +31,15 @@ Create a project and call it 'Create a test branch'
 
 Review Lesson Two
 
+Homework for 3/9
+You want to style your page by using bootstrap and css in your test branch.
+
+Then you want review your work on your local system using 'Go Live'
+
+Then you want to push your changes to your test branch.
+
+That way you can compare your test to your main branch.
+
+You need to get into your main branch or test branch and then check on your local system.
+
+
