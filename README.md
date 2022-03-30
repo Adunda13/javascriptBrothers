@@ -4,7 +4,7 @@ This is a repo for brothers learning JavaScript, platforms and the like.
 
 Homework for 3/23
 
-Make a new script of objects and properties of any item you have at home that has items in it.(just like the travelbag.js)
+Make a new script of objects and properties of any item you have at home that has items in it. (just like the travelbag.js)
 
 Then import the new script into the script.js file.
 
