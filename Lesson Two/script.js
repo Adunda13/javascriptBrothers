@@ -1,6 +1,7 @@
 
 import travelBag from "./travelbag.js";
 
+
 const markup = (travelBag) => {
     return `
     <div>

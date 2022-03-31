@@ -39,7 +39,7 @@ const travelBag = {
 
 const markup = (travelBag) => {
     return `
-    <div>
+    <div class=">
         <h3>${travelBag.name}</h3>
         <ul>
         <li>Volume:${travelBag.volume}</li>
