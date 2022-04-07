@@ -1,0 +1,22 @@
+const Tokyo = {
+    metropolis:"Tokyo",
+    region:"Kanto",
+    country:"Japan",
+    statusOfWomen:"Shy and Beautiful",
+    climate:"Subtropical",
+    cuisine:"Very Good",
+    haveSubway:true,
+    toggleHaveSubway: function(haveSubwayStatus){
+    this.haveSubway = haveSubwayStatus;
+},
+ newFacts: function(cityFact,regionFact,countryFact,statusOfWomenFact, climateFact,cusineFact,) {
+     this.metropolis = cityFact;
+     this.regionFact = regionFact;
+     this.country = countryFact;
+     this.statusOfWomen = statusOfWomenFact;
+     this.climate = climateFact;
+     this.cuisine = cusineFact;
+ },
+} 
+
+export default Tokyo;
