@@ -2,13 +2,27 @@
 
 This is a repo for brothers learning JavaScript, platforms and the like.
 
-Homework for 3/30
+Homework for 4/6 Lesson Five
 
-Make three separate directories in Lesson Four folder.
+Create a new project on github call it create a header section
 
-Each directory will contain an index file, a script.js and an (whatever).js file for your object and properties
+Make issues for each part of work
 
-The idea is to take Lesson Three to an entire new level by trippling what you did by separating into three directories 
+Create a navigation menu (use bootstrap)
+
+Populate the menu with six directories
+
+Create a home page to link from.
+
+Add something about your six directories onto the home page
+
+create three more directories to add to the three you've already made
+
+Then you test out your work on your local system
+
+Then you push it to your test repo in github
+
+Then you do a pull request to get from test to main (or master)
 
 Use bootstrap to enhance the styling on your page and give it some design you like.
 
