@@ -2,21 +2,19 @@
 
 This is a repo for brothers learning JavaScript, platforms and the like.
 
-Homework for 4/6 Lesson Five
+Homework for 4/13 Lesson Six
 
-Create a new project on github call it create a header section
+Create a new project on github call it Add to Header/Create Footer
 
 Make issues for each part of work
 
-Create a navigation menu (use bootstrap)
+Add six new directories
 
-Populate the menu with six directories
+Think about where you are going to place the directories(pages) in the navigation menu (using bootstrap)
 
-Create a home page to link from.
+Create dropdown menus to segment pages, i.e., if you have three bags put them in a dropdown menu called Bags, etc.
 
-Add something about your six directories onto the home page
-
-create three more directories to add to the three you've already made
+Create a footer and put in links to your twelve pages there.
 
 Then you test out your work on your local system
 
