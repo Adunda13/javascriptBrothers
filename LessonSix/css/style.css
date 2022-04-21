@@ -1,0 +1,100 @@
+body {
+    color:rgba(0,0,0,0.8);font-weight:bold;
+    font-size:16px;
+}
+nav{padding:1% 7%;}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+nav a, button, .dropbtn{color:#fff;
+    padding:5px;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: 600;}
+nav a:hover, .dropbtn:hover, .dropbtn:focus  {color:#CFE2F3}
+.dropbtn, button{background-color:#3D85C6;
+    box-shadow: 1px 1px 2px #000;}
+button:hover{box-shadow:none;}
+
+#tokyo h3 {
+    color: red;
+    background: #394b7d;
+    text-shadow: 0 1px 2px #000;
+    padding: 10px;
+}
+
+#barcelona h3 {
+    color:#DA121A;
+    background: #FCDD09;
+    text-shadow: 0 1px 2px #000;
+    padding: 10px;
+}
+#nyc h3 {
+    color:#DA121A;
+    background: #FCDD09;
+    text-shadow: 0 1px 2px #000;
+    padding: 10px;
+}
+#victoria h3 {
+    color:#DA121A;
+    background: #FCDD09;
+    text-shadow: 0 1px 2px #000;
+    padding: 10px;
+}
+#vancouver h3 {
+    color:green;
+    background: #fff;
+    text-shadow: 0 1px 2px #000;
+}
+#kyoto h3 {
+    color:orangered;
+    background: #fff;
+    text-shadow: 0 1px 2px #000;
+}
+#seoul h3 {
+    color:orangered;
+    background: #fff;
+    text-shadow: 0 1px 2px #000;
+}
+ul li {list-style:none;}
+
+img {width:100%;
+    border-radius:5px;padding-bottom:2%;}
+.tsLine {
+        border-bottom: 2px solid #fff;
+        border-top: 2px solid #cccccc;
+    } 
+.dropdown-content {
+      display: none;
+      position: absolute;
+      background-color:#CFE2F3;
+      min-width: 160px;
+      overflow: auto;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+    
+.dropdown-content a {
+      color: #394b7d;
+      padding: 12px 16px;
+      text-shadow:none;
+      text-decoration: none;
+      display: block;
+    }
+.dropdown-content a:hover{color:#bd0029;}
+    
+.dropdown a:hover {background-color: #ddd;}
+    
+    .show {display: block;}
+    .col-lg-4 img {max-height: 225px;}
+    .col-lg-6 img {max-height:312px;}
+    .footer{background-color:#337ab7;
+            padding:3%;
+            color:#000;
+            font-weight:300;
+}
+.footer a{color:#bd0029}
+.footer ul li {display:inline-block;color:#fff;}
