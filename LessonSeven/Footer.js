@@ -1,5 +1,7 @@
 import ReplaceButtonText from "./ReplaceButtonText.js";
 
+
+
 const markup = (ReplaceButtonText) => {
     return `
     <div class="footer">
@@ -10,7 +12,7 @@ const markup = (ReplaceButtonText) => {
     <div class="row">
     <div class="col-lg-6"> 
     <p>There is a world full of fine, feminine women all over the world! Women in Tokyo are fine as hell and know how to dress and act on a date. You can take them anywhere without them embarrassing you or making you look like a fool. </p>
-    <button>${ReplaceButtonText.learnTokyo}</button></div>
+    <button class="learn">${ReplaceButtonText.learnTokyo}</button></div>
     <div class="col-lg-6">
     <p>Women in Niigata are wifeable, feminine, beautiful, friendly and full breasted. They have beautiful milky white smooth skin and smell very nice.</p>
     <button>${ReplaceButtonText.learnNiigataCity}</button>
@@ -32,7 +34,7 @@ const markup = (ReplaceButtonText) => {
     <button>${ReplaceButtonText.learnKyoto} </button>
     </div>
     <div class="col-lg-6"><p>In Osaka, one of the cities I lived in, the women know how to dress and they are very shy but love a good story and laugh. They are easy going and will never give you any trouble.</p>
-    <button>${ReplaceButtonText.leanOsaka}</button>
+    <button>${ReplaceButtonText.learnOsaka}</button>
     </div></div>
     <br>
     <div class="row">
@@ -66,9 +68,6 @@ const markup = (ReplaceButtonText) => {
 
     </div>
     </div>
-    
- 
-
     `
 }
 
