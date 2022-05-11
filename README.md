@@ -2,7 +2,7 @@
 
 This is a repo for brothers learning JavaScript, platforms and the like.
 
-Homework for 4/20 Lesson Seven
+Homework for 5/11 Lesson Eight
 
 Enhance the project Header/Create Footer
 

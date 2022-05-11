@@ -1,5 +1,5 @@
 const CitiesInJapan = {
-    welcome:"Welcome to my favorite cities in Asia!",
+    welcome:"Welcome to my favorite cities in Japan. I have many, but here are a few.",
     info:"This is just something I put together to have fun with our JavaScript Brothers class",
     image:"<img src='./images/cityscape.jpg'/>",  
     willTravel:true,

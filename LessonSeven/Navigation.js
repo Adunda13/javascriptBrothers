@@ -15,7 +15,7 @@ const Navigation = {
         vancouver: ' <a href="http://127.0.0.1:5500/LessonSeven/Vancouver/index.html">Vancouver</a>',
         victoria: '<a href="http://127.0.0.1:5500/LessonSeven/Victoria/index.html">Victoria</a>' , 
         citiesInAsia: 'Cities In Asia<div id="myDropdown" class="dropdown-content"><a href="http://127.0.0.1:5500/LessonSeven/Citiesinasia/Singapore/index.html">Singapore</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinasia/Seoul/index.html">Seoul</a></div>',
-        citiesInJapan: 'Cities In Japan<div id="myDropdown" class="dropdown-content"><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Kyoto/index.html">Kyoto</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Niigata%20City/index.html">Niigata City</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Tokyo/index.html">Tokyo</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Osaka/index.html">Osaka</a></div>',
+        citiesInJapan: 'Cities In Japan<div id="myJapan" class="dropdown-content"><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Kyoto/index.html">Kyoto</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Niigata%20City/index.html">Niigata City</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Tokyo/index.html">Tokyo</a><a href="http://127.0.0.1:5500/LessonSeven/Citiesinjapan/Osaka/index.html">Osaka</a></div>',
     newNav: function(navHome, navBarcelona,navHonolulu,navJeddah,navKyoto,navNiigataCity,navOsaka,navSeoul,navTokyo,navRidyadh,navNewYorkCity,navVancouver,navVictoria,navCitiesInAsia,navCitiesInJapan) {
         this.home = navHome;
         this.barcelona = navBarcelona;

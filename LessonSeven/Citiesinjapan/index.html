@@ -10,8 +10,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script type="module" src="../Header.js"></script>
     <script type="module" src="script.js"></script>
-    <script type="module" src="CitiesInAsia.js"></script>
-    <script type="module" src="../AsianLinks.js"></script>
+    <script type="module" src="CitiesInJapan.js"></script>
+    <script type="module" src="../Footer.js"></script>
+
     <script>
       //dropdown.js
 function inAsia() {
@@ -30,8 +31,30 @@ function inAsia() {
         }
       }
     }
-  }
+  }  
     </script>
+
+<script>
+  //dropdown.js
+function inJapan() {
+document.getElementById("myJapan").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+if (!event.target.matches('.dropbtn')) {
+  var dropdowns = document.getElementsByClassName("dropdown-content");
+  var i;
+  for (i = 0; i < dropdowns.length; i++) {
+    var openDropdown = dropdowns[i];
+    if (openDropdown.classList.contains('show')) {
+      openDropdown.classList.remove('show');
+    }
+  }
+}
+}
+
+</script>
   </head>
   <body></body>
 </html>
