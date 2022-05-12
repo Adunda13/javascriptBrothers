@@ -2,28 +2,16 @@
 
 This is a repo for brothers learning JavaScript, platforms and the like.
 
-Homework for 4/20 Lesson Seven
+*****  Next class will be 5/25 *****
 
-Enhance the project Header/Create Footer
+Homework for 5/11 Lesson Nine
 
-Make new issues for each part of work
+Add videos from youtube to pages.
 
-You must have at least 12 directories (or pages)
+Create an About page
 
-Think about where you are going to place the directories(pages) in the navigation menu (using bootstrap)
+Add cards with images, header and a short excerpt
 
-Create dropdown menus to segment pages, i.e., if you have three bags put them in a dropdown menu called Bags, etc.
-
-Create a footer and put in links to your twelve pages there.
-
-Add some verbage about your links on your footer.
-
-Then you test out your work on your local system
-
-Then you push it to your test repo in github
-
-Then you do a pull request to get from test to main (or master)
-
-Use bootstrap to enhance the styling on your page and give it some design you like.
+Enhance the menu if need to.
 
 Thanks Brothers.
